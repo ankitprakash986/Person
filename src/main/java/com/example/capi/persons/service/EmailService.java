@@ -13,6 +13,6 @@ public class EmailService {
    private EmailRepository emailRepository;
 
     public List<Email> getEmailByPerson_id(Long id){
-        return this.emailRepository.getEmailByPerson_id(id);
+        return this.emailRepository.getEmailByPersons_Id(id);
     }
 }

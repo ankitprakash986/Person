@@ -1,7 +1,9 @@
 package com.example.capi.persons.service;
 
-import org.springframework.stereotype.Service;
+import com.example.capi.persons.entities.Persons;
 
-@Service
-public class PhoneService {
+import java.util.List;
+
+public interface PhoneService {
+
 }

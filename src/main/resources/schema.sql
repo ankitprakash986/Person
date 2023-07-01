@@ -2,7 +2,7 @@
 INSERT INTO persons (first_name, last_name, age, country)
 VALUES
     ('Vikram', 'Verma', 27, 'India'),
-    ('Priya', 'Reddy', 31, 'India'),
+    ('Aarav', 'Reddy', 28, 'Canada'),
     ('Rahul', 'Sinha', 29, 'India'),
     ('Isha', 'Malhotra', 26, 'India'),
     ('Karan', 'Shah', 33, 'India');
@@ -19,11 +19,11 @@ VALUES
 -- Example 3
 INSERT INTO persons (first_name, last_name, age, country)
 VALUES
-    ('Rishi', 'Thakur', 29, 'India'),
-    ('Tanvi', 'Nair', 27, 'India'),
-    ('Arjun', 'Iyer', 31, 'India'),
-    ('Trisha', 'Raj', 25, 'India'),
-    ('Aditya', 'Menon', 33, 'India');
+    ('Lakshmi', 'Prasad', 35, 'United States'),
+    ('Aarav', 'Malhotra', 28, 'Canada'),
+    ('Sneha', 'Date', 32, 'Australia'),
+    ('Akash', 'Asrani', 30, 'United Kingdom'),
+    ('Simran', 'Jhunjhunwala', 27, 'Germany');
 
 -- Example 4
 INSERT INTO persons (first_name, last_name, age, country)
